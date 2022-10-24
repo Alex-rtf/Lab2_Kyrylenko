@@ -1,0 +1,11 @@
+D:\Univer_5_1\Information Security\LR2_Kyrylenko\LR2_Kyrylenko\bin\Debug\LR2_Kyrylenko.exe.config
+D:\Univer_5_1\Information Security\LR2_Kyrylenko\LR2_Kyrylenko\bin\Debug\LR2_Kyrylenko.exe
+D:\Univer_5_1\Information Security\LR2_Kyrylenko\LR2_Kyrylenko\bin\Debug\LR2_Kyrylenko.pdb
+D:\Univer_5_1\Information Security\LR2_Kyrylenko\LR2_Kyrylenko\obj\Debug\LR2_Kyrylenko.csproj.AssemblyReference.cache
+D:\Univer_5_1\Information Security\LR2_Kyrylenko\LR2_Kyrylenko\obj\Debug\LR2_Kyrylenko.csproj.SuggestedBindingRedirects.cache
+D:\Univer_5_1\Information Security\LR2_Kyrylenko\LR2_Kyrylenko\obj\Debug\LR2_Kyrylenko.Form1.resources
+D:\Univer_5_1\Information Security\LR2_Kyrylenko\LR2_Kyrylenko\obj\Debug\LR2_Kyrylenko.Properties.Resources.resources
+D:\Univer_5_1\Information Security\LR2_Kyrylenko\LR2_Kyrylenko\obj\Debug\LR2_Kyrylenko.csproj.GenerateResource.cache
+D:\Univer_5_1\Information Security\LR2_Kyrylenko\LR2_Kyrylenko\obj\Debug\LR2_Kyrylenko.csproj.CoreCompileInputs.cache
+D:\Univer_5_1\Information Security\LR2_Kyrylenko\LR2_Kyrylenko\obj\Debug\LR2_Kyrylenko.exe
+D:\Univer_5_1\Information Security\LR2_Kyrylenko\LR2_Kyrylenko\obj\Debug\LR2_Kyrylenko.pdb
